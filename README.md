@@ -15,4 +15,4 @@ pip install pandas
 ```
 
 ## Image of scraped data:
-<img src="https://github.com/kixelo/3.liga_east_2023_2024/blob/main/3liga_ws_data.PNG" />
+<img src="https://github.com/kixelo/3.liga_east_2023_2024/blob/main/3liga_ws_data.PNG"/>
