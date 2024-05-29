@@ -1,6 +1,6 @@
 # 3.liga_east_2023_2024
 Scraping football data and then I performed some data filtering, with help of Python, Pandas and Chat GPT.
-Output is saved in "csv" file.
+Output is saved in "csv" file, and I use these data for updating Wikipedia Slovak football leagues articles/ tables.
 
 ## Web based computing platform that I used for coding part
 ```
