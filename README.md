@@ -1,6 +1,6 @@
 # 3.liga_east_2023_2024
-Scraping football data and then I performed some data filtering, with help of Python, Pandas and Chat GPT.
-Output is saved in "csv" file, and I use these data for updating Wikipedia Slovak football leagues articles/ tables.
+Scraping football data and then I performed some data filtering, with help of Python, Pandas and ChatGPT.
+Some of data I am using to "inject"/ update Wikipedia tables etc...and previously, I did it manually. But it was really boring...
 
 ## Web based computing platform that I used for coding part
 ```
@@ -15,5 +15,5 @@ pip install pandas
 ```
 
 ## Image of scraped data:
-<img src="https://github.com/kixelo/3.liga_east_2023_2024/blob/main/3liga_ws_data.PNG"/>
-<img src="3liga_ws_data.PNG"/>
+<img src="https://github.com/kixelo/3.liga_east_2023_2024/blob/main/3liga_ws_data.PNG" />
+
